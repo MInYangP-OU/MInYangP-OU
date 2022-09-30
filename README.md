@@ -72,8 +72,41 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://www.zhihu.com/people/ou-min-yang-38/posts"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> My Blog</b></a><br/><i>ML&DL / AIOps / TimeSeries Forecasting / Recommend Systems!.</i></li>
+  <li><a href="https://www.zhihu.com/people/ou-min-yang-38/posts"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> My Blog More</b></a><br/><i>ML&DL / AIOps / TimeSeries Forecasting / Anomaly detection / Root Cause / Recommend Systems.</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/541950397"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> AIOps-（一）云原生时代、微服务下的智能运维方向算法的探索</b></a><br/><i>AIOps</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/551578959"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> AIOps-（二）云原生时代下解决是什么问题？</b></a><br/><i>AIOps</i></li>
+
+  <li><a href="https://tech.meituan.com/2020/10/15/mt-aiops-horae.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> AIOps - (三) 在美团的探索与实践——故障发现篇</b></a><br/><i>AIOps</i></li>
+
+  <li><a href="https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />数据库异常智能分析与诊断</b></a><br/><i>AIOps</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/472770612"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 【时间序列】深度学习实用算法（1）-Transformer</b></a><br/><i>TimeSeries Forecasting</i></li>
   
+  <li><a href="https://zhuanlan.zhihu.com/p/421710621"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 【时间序列】时间序列预测算法总结</b></a><br/><i>TimeSeries Forecasting</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/363254791"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 时间序列异常检测（三）—— 告警策略与根因定位</b></a><br/><i>Root Cause/Anomaly detection</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/363254791"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 时间序列异常检测（三）—— 告警策略与根因定位</b></a><br/><i>Root Cause/Anomaly detection</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/150266277"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 时间序列异常检测（二）—— 基于KDD99数据集的实战</b></a><br/><i>Anomaly detection</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/142320349"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 时间序列异常检测（一）—— 算法综述</b></a><br/><i>Anomaly detection</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/499523461"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 推荐系统-（17）多任务学习：腾讯PLE原理与实践⭐️</b></a><br/><i>Recommend Systems</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/497764458"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 推荐系统-（16）多任务学习：谷歌MMOE原理与实践</b></a><br/><i>Recommend Systems</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/497233073"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 推荐系统（15）-多任务学习：阿里ESMM原理与实践</b></a><br/><i>Recommend Systems</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/402316154"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 推荐系统（13）-DIEN原理与实践</b></a><br/><i>Recommend Systems</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/347666956"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 推荐系统（9）-DeepFM原理与实践</b></a><br/><i>Recommend Systems</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/339012714"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> FlinkSQL+Kafka, MySQL, ES（ Kibana） 快速搭建实时分析应用</b></a><br/><i>OLAP</i></li>
+
+  <li><a href="https://zhuanlan.zhihu.com/p/99591075"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 数据中台（一）什么是数据中台</b></a><br/><i>数据中台</i></li>
 </ul>
 <h3>Life & Live!</h3>
 <p><img width="200" src="https://i0.hdslb.com/bfs/new_dyn/2f523b44a46c45fe2c14f8e31d719af93033360.jpg@312w_312h_1e_1c.webp" />
