@@ -76,16 +76,12 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
   
 </ul>
 <h3>Life & Live!</h3>
-<p><img width="200" src="https://i0.hdslb.com/bfs/new_dyn/2f523b44a46c45fe2c14f8e31d719af93033360.jpg@312w_312h_1e_1c.webp
-" />
- <img width="200" src="https://i0.hdslb.com/bfs/new_dyn/c8ab47998c6a7bcfdcc06ffb8be855ea3033360.jpg@312w_312h_1e_1c.webp
-" /> 
+<p><img width="200" src="https://i0.hdslb.com/bfs/new_dyn/2f523b44a46c45fe2c14f8e31d719af93033360.jpg@312w_312h_1e_1c.webp" />
+ <img width="200" src="https://i0.hdslb.com/bfs/new_dyn/c8ab47998c6a7bcfdcc06ffb8be855ea3033360.jpg@312w_312h_1e_1c.webp" /> 
  <img width="200" src="https://i0.hdslb.com/bfs/new_dyn/8f1ff9c1a9383b0f4116c6329bbaf1c33033360.jpg@312w_312h_1e_1c.webp" />
 
-<img width="200" src="https://i0.hdslb.com/bfs/new_dyn/0660d799a970a008f17beb2a12567b323033360.jpg@312w_312h_1e_1c.webp
-" />
- <img width="200" src="	https://i0.hdslb.com/bfs/new_dyn/2ca50ae2479f65662dfad54fe8b693073033360.jpg@312w_312h_1e_1c.webp
-" /> 
+ <img width="200" src="https://i0.hdslb.com/bfs/new_dyn/0660d799a970a008f17beb2a12567b323033360.jpg@312w_312h_1e_1c.webp" />
+ <img width="200" src="	https://i0.hdslb.com/bfs/new_dyn/2ca50ae2479f65662dfad54fe8b693073033360.jpg@312w_312h_1e_1c.webp" /> 
  <img width="200" src="https://i0.hdslb.com/bfs/new_dyn/03360bcaa7ac0e4084f595ca6bd2208c3033360.jpg@312w_312h_1e_1c.webp" /></p>
 
 <p>Above are the last 6 pictures posted by <a href="https://space.bilibili.com/3033360/dynamic?spm_id_from=444.41.my-info.face.click" target="_blank"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F-Po3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2Fb58f8c5494eef01f798168f3edfe9925bc317d6a.jpg&refer=http%3A%2F%2Fgss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1667105824&t=cd87554bcb9e6d2c266f418ff3d9e1fc" width="20"/> @Bilibili !</a></p>
