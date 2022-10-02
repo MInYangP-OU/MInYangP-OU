@@ -66,6 +66,55 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pycaret/pycaret?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/MInYangP-OU/optuna"><b>Optuna</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/MInYangP-OU/optuna?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/MInYangP-OU/optuna?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/MInYangP-OU/optuna?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MInYangP-OU/optuna?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/slundberg/shap"><b>Shap（Explain ML Model）</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/slundberg/shap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/slundberg/shap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/slundberg/shap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/slundberg/shap?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/facebookresearch/Kats"><b>Kats（Analyze Time Series）</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/facebookresearch/Kats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/facebookresearch/Kats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/facebookresearch/Kats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/facebookresearch/Kats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/blue-yonder/tsfresh"><b>tsfresh（timeseries feature）</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/blue-yonder/tsfresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/blue-yonder/tsfresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/blue-yonder/tsfresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/blue-yonder/tsfresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/awslabs/autogluon"><b>Autogluon（AutoML）</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/awslabs/autogluon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/awslabs/autogluon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/awslabs/autogluon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/awslabs/autogluon?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MInYangP-OU/awesome-AIOps"><b>awesome-AIOps</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/MInYangP-OU/awesome-AIOps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/MInYangP-OU/awesome-AIOps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/MInYangP-OU/awesome-AIOps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MInYangP-OU/awesome-AIOps?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MInYangP-OU/SparrowRecSysZero2One"><b>从0到1搭建推荐系</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://www.zhihu.com/people/ou-min-yang-38"><b>More Project check My Blog</b></a></td>
     </tr>
   </tbody>
