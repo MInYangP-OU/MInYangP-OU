@@ -108,7 +108,7 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MInYangP-OU/awesome-AIOps?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MInYangP-OU/SparrowRecSysZero2One"><b>从0到1搭建推荐系</b></a></td>
+      <td><a href="https://github.com/MInYangP-OU/SparrowRecSysZero2One"><b>从0到1搭建推荐系统</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/MInYangP-OU/SparrowRecSysZero2One?style=flat-square&labelColor=343b41"/></td>
